@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="new-bing" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="c" data-name="gradient1" cx="-1552.4" cy="76.03" fx="-1552.4" fy="76.03" r="12.31" gradientTransform="translate(-11623.47 -13147.18) rotate(-129.07) scale(11.56)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#00aeff"/>
+      <stop offset=".77" stop-color="#2253ce"/>
+      <stop offset="1" stop-color="#0736c4"/>
+    </radialGradient>
+    <radialGradient id="d" data-name="gradient2" cx="-1266.68" cy="-58.01" fx="-1266.68" fy="-58.01" r="11.2" gradientTransform="translate(8753.81 12480.02) rotate(52.07) scale(11.74)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffb657"/>
+      <stop offset=".63" stop-color="#ff5f3d"/>
+      <stop offset=".92" stop-color="#c02b3c"/>
+    </radialGradient>
+    <linearGradient id="e" data-name="gradient3" x1="-1323.47" y1="33.29" x2="-1322.6" y2="44.03" gradientTransform="translate(25607.38 -555.18) scale(19.21 20.34)" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#0d91e1"/>
+      <stop offset=".49" stop-color="#52b471"/>
+      <stop offset=".65" stop-color="#98bd42"/>
+      <stop offset=".94" stop-color="#ffc800"/>
+    </linearGradient>
+    <linearGradient id="f" data-name="gradient4" x1="-1323.39" y1="31.94" x2="-1322.92" y2="43.66" gradientTransform="translate(25607.38 -555.18) scale(19.21 20.34)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3dcbff"/>
+      <stop offset=".25" stop-color="#0588f7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="g" data-name="gradient5" cx="-1400.34" cy="-99.34" fx="-1400.34" fy="-99.34" r="16.47" gradientTransform="translate(-10219.58 24949.95) rotate(109.13) scale(19.21)" gradientUnits="userSpaceOnUse">
+      <stop offset=".07" stop-color="#8c48ff"/>
+      <stop offset=".5" stop-color="#f2598a"/>
+      <stop offset=".9" stop-color="#ffb152"/>
+    </radialGradient>
+    <linearGradient id="h" data-name="gradient6" x1="-1316.81" y1="35.35" x2="-1316.82" y2="38.54" gradientTransform="translate(25619.8 -552.27) scale(19.21 20.35)" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#f8adfa"/>
+      <stop offset=".71" stop-color="#a86edd" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="b" data-name="layer1-2-2">
+    <circle cx="256" cy="256" r="256" style="fill: #fff;"/>
+  </g>
+  <g>
+    <path d="M338.99,118.44c-4.66-16.21-19.48-27.39-36.34-27.43h-11.05c-18.35.06-34.04,13.23-37.26,31.3l-18.94,104.05,4.71-16.2c4.64-16.24,19.47-27.45,36.36-27.49h64.26l26.95,10.59,25.96-10.59h-7.57c-16.87-.04-31.68-11.22-36.34-27.43l-10.72-36.79h-.02Z" style="fill: url(#c);"/>
+    <path d="M176.88,393.4c4.61,16.29,19.46,27.56,36.39,27.6h23.49c20.55,0,37.35-16.5,37.87-37.2l2.55-100.35-5.35,18.42c-4.66,16.22-19.47,27.4-36.34,27.45h-64.8l-23.1-12.63-25,12.64h7.45c16.86,0,31.69,11.25,36.39,27.6l10.45,36.48h0s0-.01,0-.01Z" style="fill: url(#d);"/>
+    <path d="M300.99,91h-131.22c-37.5,0-60,49.96-75,99.93-17.76,59.2-41.01,138.37,26.25,138.37h56.67c16.95,0,31.8-11.29,36.45-27.7,9.85-34.75,27.13-95.38,40.69-141.54,6.9-23.44,12.63-43.59,21.45-56.13,5.56-8.17,14.83-13.02,24.7-12.93" style="fill: url(#e);"/>
+    <path d="M300.99,91h-131.22c-37.5,0-60,49.96-75,99.93-17.76,59.2-41.01,138.37,26.25,138.37h56.67c16.95,0,31.8-11.29,36.45-27.7,9.85-34.75,27.13-95.38,40.69-141.54,6.9-23.44,12.63-43.59,21.45-56.13,5.56-8.17,14.83-13.02,24.7-12.93" style="fill: url(#f);"/>
+    <path d="M210.99,421h131.23c37.5,0,60-49.98,75-99.94,17.76-59.22,41.01-138.4-26.25-138.4h-56.68c-16.93,0-31.8,11.31-36.45,27.72-13.36,47.24-26.93,94.43-40.69,141.55-6.9,23.46-12.63,43.6-21.45,56.14-5.56,8.17-14.83,13.02-24.7,12.93" style="fill: url(#g);"/>
+    <path d="M210.99,421h131.23c37.5,0,60-49.98,75-99.94,17.76-59.22,41.01-138.4-26.25-138.4h-56.68c-16.93,0-31.8,11.31-36.45,27.72-13.36,47.24-26.93,94.43-40.69,141.55-6.9,23.46-12.63,43.6-21.45,56.14-5.56,8.17-14.83,13.02-24.7,12.93" style="fill: url(#h);"/>
+  </g>
+</svg>

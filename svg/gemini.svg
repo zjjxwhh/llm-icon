@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="gemini" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="c" data-name="gradient" x1="507.9" y1="509.9" x2="3.5" y2="5.5" gradientTransform="translate(0 514) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0dcd6"/>
+      <stop offset="0" stop-color="#e1d4d8"/>
+      <stop offset=".3" stop-color="#9caee6"/>
+      <stop offset=".5" stop-color="#6590f0"/>
+      <stop offset=".6" stop-color="#3d7bf8"/>
+      <stop offset=".8" stop-color="#246dfd"/>
+      <stop offset=".9" stop-color="#1c69ff"/>
+    </linearGradient>
+  </defs>
+  <g id="b" data-name="layer1-2">
+    <circle cx="256" cy="256" r="256" style="fill: url(#c);"/>
+  </g>
+  <path id="d" data-name="layer1-1" d="M256,441c-14.5-95.5-89.5-170.5-185-185,95.5-14.5,170.5-89.5,185-185,14.5,95.5,89.5,170.5,185,185-95.5,14.5-170.5,89.5-185,185" style="fill: #fff;"/>
+</svg>

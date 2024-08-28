@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="stable-diffusion" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="c" data-name="gradient1" x1="256" y1="514" x2="256" y2="2" gradientTransform="translate(0 514) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9d39ff"/>
+      <stop offset="1" stop-color="#a380ff"/>
+    </linearGradient>
+  </defs>
+  <g id="b" data-name="layer1-2">
+    <circle cx="256" cy="256" r="256" style="fill: url(#c);"/>
+  </g>
+  <g>
+    <path d="M190.48,400.95c68.51,0,113.06-35.75,113.06-89.58s-27.06-68.22-75.57-79.24l-31.12-9.18c-27.25-5.99-43.2-13.24-39.43-31.79,3.09-15.36,12.47-24.16,34.21-24.16,69,0,94.61,24.16,94.61,24.16v-57.98s-24.93-22.13-94.61-22.13-101.37,33.34-101.37,84.94,24.74,66,74.8,77.5l5.41,1.35c7.63,2.32,17.88,5.41,30.83,9.18,25.61,5.99,32.18,12.47,32.18,31.7s-18.55,27.54-43,27.54c-70.64,0-100.21-35.17-100.21-35.17v64.26s18.55,28.7,100.21,28.7h0v-.1Z" style="fill: #fff;"/>
+    <path d="M379.5,396.6c24.26,0,42.33-17.3,42.33-40.68s-17.49-40.68-42.33-40.68-41.75,16.81-41.75,40.68,17.49,40.68,41.75,40.68Z" style="fill: #fff;"/>
+  </g>
+</svg>

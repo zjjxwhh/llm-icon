@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="baichuan" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="d" data-name="gradient1" x1="74.98" y1="1206.98" x2="437.02" y2="1569.02" gradientTransform="translate(0 -1132)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fec13e"/>
+      <stop offset="1" stop-color="#ff6933"/>
+    </linearGradient>
+  </defs>
+  <g id="b" data-name="layer1">
+    <g id="c" data-name="layer1-2">
+      <circle cx="256" cy="256" r="256" style="fill: url(#d);"/>
+    </g>
+    <g id="e" data-name="layer1-1">
+      <path d="M199.8,111h-46.4l-29,62.8v166.3l-30.9,60.9h75.4l29.4-60.9,1.5-229.1h0ZM306.2,111h-75.4v290h75.4V111ZM337.1,194.1h75.4v206.9h-75.4v-206.9ZM412.5,111h-75.4v59.9h75.4s0-59.9,0-59.9Z" style="fill: #fff;"/>
+    </g>
+  </g>
+</svg>
